@@ -21,7 +21,7 @@
     height: 70px;
 }
 .logo{
-    color: #e59554;
+    color: #e89b3d;
     font-size: 35px;
     font-family: Arial;
     padding-left: 20px;
@@ -54,7 +54,7 @@ ul li a{
     transition: 0.4s ease-in-out;
 }
 ul li a:hover{
-    color: #e59554;
+    color: #e89b3d;
 }
 .search{
     width: 330px;
@@ -66,7 +66,7 @@ ul li a:hover{
     width: 200px;
     height: 40px;
     background: transparent;
-    border: 1px solid #e59554;
+    border: 1px solid #e89b3d;
     margin-top: 13px;
     color: #fff;
     border-right: none;
@@ -79,8 +79,8 @@ ul li a:hover{
 .btn{
     width: 100px;
     height: 40px;
-    background: #fb9038;
-    border: 2px solid #fb9038;
+    background: #e89b3d;
+    border: 2px solid #e89b3d;
     margin-top: 13px;
     color: #fff;
     font-size: 15px;
@@ -122,7 +122,7 @@ ul li a:hover{
 .content .cn{
     width: 160px;
     height: 40px;
-    background: #fb9038;
+    background: #e89b3d;
     border: none;
     margin-bottom: 10px;
     margin-left: 20px;
@@ -141,7 +141,7 @@ ul li a:hover{
     background-color: #fff;
 }
 .content span{
-    color: #fb9038;
+    color: #e89b3d;
     font-size: 65px
 }
 .form{
@@ -159,7 +159,7 @@ ul li a:hover{
     width: 220px;
     font-family: sans-serif;
     text-align: center;
-    color: #fb9038;
+    color: #e89b3d;
     font-size: 22px;
     background-color: #fff;
     border-radius: 10px;
@@ -170,7 +170,7 @@ ul li a:hover{
     width: 240px;
     height: 35px;
     background: transparent;
-    border-bottom: 1px solid #fb9038;
+    border-bottom: 1px solid #e89b3d;
     border-top: none;
     border-right: none;
     border-left: none;
@@ -190,7 +190,7 @@ ul li a:hover{
 .btnn{
     width: 240px;
     height: 40px;
-    background: #fb9038;
+    background: #e89b3d;
     border: none;
     margin-top: 30px;
     font-size: 18px;
@@ -201,7 +201,7 @@ ul li a:hover{
 }
 .btnn:hover{
     background: #fff;
-    color: #fb9038;
+    color: #e89b3d;
 }
 .btnn a{
     text-decoration: none;
@@ -216,7 +216,7 @@ ul li a:hover{
 }
 .form .link a{
     text-decoration: none;
-    color: #fb9038;
+    color: #e89b3d;
 }
 .liw{
     padding-top: 15px;
@@ -235,7 +235,7 @@ ul li a:hover{
     transition: 0.3s ease;
 }
 .icons ion-icon:hover{
-    color: #fb9038;
+    color: #e89b3d;
 }
 
 
