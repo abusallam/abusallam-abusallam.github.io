@@ -21,7 +21,7 @@
     height: 70px;
 }
 .logo{
-    color: #fe7c12;
+    color: #fb9038;
     font-size: 35px;
     font-family: Arial;
     padding-left: 20px;
@@ -54,7 +54,7 @@ ul li a{
     transition: 0.4s ease-in-out;
 }
 ul li a:hover{
-    color: #f97f1c;
+    color: #fb9038;
 }
 .search{
     width: 330px;
@@ -66,7 +66,7 @@ ul li a:hover{
     width: 200px;
     height: 40px;
     background: transparent;
-    border: 1px solid #f97f1c;
+    border: 1px solid #fb9038;
     margin-top: 13px;
     color: #fff;
     border-right: none;
@@ -79,8 +79,8 @@ ul li a:hover{
 .btn{
     width: 100px;
     height: 40px;
-    background: #f97f1c;
-    border: 2px solid #f97f1c;
+    background: #fb9038;
+    border: 2px solid #fb9038;
     margin-top: 13px;
     color: #fff;
     font-size: 15px;
@@ -122,7 +122,7 @@ ul li a:hover{
 .content .cn{
     width: 160px;
     height: 40px;
-    background: #f97f1c;
+    background: #fb9038;
     border: none;
     margin-bottom: 10px;
     margin-left: 20px;
@@ -141,7 +141,7 @@ ul li a:hover{
     background-color: #fff;
 }
 .content span{
-    color: #f97f1c;
+    color: #fb9038;
     font-size: 65px
 }
 .form{
@@ -159,7 +159,7 @@ ul li a:hover{
     width: 220px;
     font-family: sans-serif;
     text-align: center;
-    color: #f97f1c;
+    color: #fb9038;
     font-size: 22px;
     background-color: #fff;
     border-radius: 10px;
@@ -170,7 +170,7 @@ ul li a:hover{
     width: 240px;
     height: 35px;
     background: transparent;
-    border-bottom: 1px solid #f97f1c;
+    border-bottom: 1px solid #fb9038;
     border-top: none;
     border-right: none;
     border-left: none;
@@ -190,7 +190,7 @@ ul li a:hover{
 .btnn{
     width: 240px;
     height: 40px;
-    background: #f97f1c;
+    background: #fb9038;
     border: none;
     margin-top: 30px;
     font-size: 18px;
