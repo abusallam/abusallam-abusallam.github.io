@@ -21,7 +21,7 @@
     height: 70px;
 }
 .logo{
-    color: #fb9038;
+    color: #e59554;
     font-size: 35px;
     font-family: Arial;
     padding-left: 20px;
@@ -54,7 +54,7 @@ ul li a{
     transition: 0.4s ease-in-out;
 }
 ul li a:hover{
-    color: #fb9038;
+    color: #e59554;
 }
 .search{
     width: 330px;
@@ -66,7 +66,7 @@ ul li a:hover{
     width: 200px;
     height: 40px;
     background: transparent;
-    border: 1px solid #fb9038;
+    border: 1px solid #e59554;
     margin-top: 13px;
     color: #fff;
     border-right: none;
