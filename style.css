@@ -21,7 +21,7 @@
     height: 70px;
 }
 .logo{
-    color: #e89b3dcc;
+    color: #f7ae55;
     font-size: 35px;
     font-family: Arial;
     padding-left: 20px;
@@ -122,7 +122,7 @@ ul li a:hover{
 .content .cn{
     width: 160px;
     height: 40px;
-    background: #e89b3dcc;
+    background: #fcad4d;
     border: none;
     margin-bottom: 10px;
     margin-left: 20px;
@@ -310,7 +310,7 @@ ul li a:hover{
         width: 240px;
         height: 35px;
         background: transparent;
-        border-bottom: 1px solid #fb9038;
+        border-bottom: 1px solid #f28c39;
         border-top: none;
         border-right: none;
         border-left: none;
@@ -403,7 +403,7 @@ ul li a:hover{
         width: 240px;
         height: 35px;
         background: transparent;
-        border-bottom: 1px solid #fb9038;
+        border-bottom: 1px solid #f59444;
         border-top: none;
         border-right: none;
         border-left: none;
