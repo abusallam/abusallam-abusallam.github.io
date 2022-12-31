@@ -201,7 +201,7 @@ ul li a:hover{
 }
 .btnn:hover{
     background: #fff;
-    color: #f97f1c;
+    color: #fb9038;
 }
 .btnn a{
     text-decoration: none;
@@ -216,7 +216,7 @@ ul li a:hover{
 }
 .form .link a{
     text-decoration: none;
-    color: #f97f1c;
+    color: #fb9038;
 }
 .liw{
     padding-top: 15px;
@@ -235,7 +235,7 @@ ul li a:hover{
     transition: 0.3s ease;
 }
 .icons ion-icon:hover{
-    color: #f97f1c;
+    color: #fb9038;
 }
 
 
@@ -310,7 +310,7 @@ ul li a:hover{
         width: 240px;
         height: 35px;
         background: transparent;
-        border-bottom: 1px solid #f97f1c;
+        border-bottom: 1px solid #fb9038;
         border-top: none;
         border-right: none;
         border-left: none;
@@ -403,7 +403,7 @@ ul li a:hover{
         width: 240px;
         height: 35px;
         background: transparent;
-        border-bottom: 1px solid #f97f1c;
+        border-bottom: 1px solid #fb9038;
         border-top: none;
         border-right: none;
         border-left: none;
